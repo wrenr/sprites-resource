@@ -1,0 +1,10 @@
+#contents .my-main-menu a {
+  font-size: 0.8rem;
+}
+
+.main-intro {
+  padding: 1rem;
+}
+#contents .pure-menu-heading {
+  text-align: center;
+}
